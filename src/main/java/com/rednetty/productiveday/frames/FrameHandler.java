@@ -1,4 +1,4 @@
 package com.rednetty.productiveday.frames;
 
-public class AlertsFrame {
+public class FrameHandler {
 }
