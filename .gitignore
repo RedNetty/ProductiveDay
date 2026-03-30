@@ -3,3 +3,12 @@
 
 # IntelliJ IDEA
 .idea/
+
+# Build artifacts and OS files
+*.class
+*.jar
+!*-sources.jar
+.DS_Store
+Thumbs.db
+*.log
+
